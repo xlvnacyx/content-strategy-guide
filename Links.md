@@ -14,7 +14,7 @@
 
 # existing strategies
 
-Tess Barclay's 6 Step Content Strategy | [Tik Tok](https://www.tiktok.com/t/ZTj2pLS2B/) 
-Emily + Sarah's Content Strategy | [Tik Tok](https://www.tiktok.com/t/ZTj2pk26d/) 
-Lo Silver's number one tip to going viral | [Tik Tok](https://www.tiktok.com/t/ZTj2pQ5A1/) 
-Lo Silver's 5 non-negotiables in content creation | [Tik Tok](https://www.tiktok.com/t/ZTj2pKvxY/) 
+Tess Barclay's [[6 Step Content Strategy]] | [Tik Tok](https://www.tiktok.com/t/ZTj2pLS2B/) 
+Emily + Sarah's [[7 Step Content Strategy]] | [Tik Tok](https://www.tiktok.com/t/ZTj2pk26d/) 
+Lo Silver's [[Number One Content Hack]] | [Tik Tok](https://www.tiktok.com/t/ZTj2pQ5A1/) 
+Lo Silver's [[5 Non-Negotiables in Content Creation]] | [Tik Tok](https://www.tiktok.com/t/ZTj2pKvxY/) 

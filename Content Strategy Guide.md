@@ -1,3 +1,4 @@
+
 [Lee Densmer’s Content Strategy Table of Contents](https://www.linkedin.com/posts/leedensmer_marketing-teams-ask-me-what-goes-into-a-content-activity-7316444880954695680-dm20) 
 
 > [!todo]+ TODO
@@ -8,8 +9,10 @@
 > - [ ] find good resources for using git and git submodules
 > - [x] create a content calendar ✅ 2025-04-21
 > - [ ] create styleguide
-> - [ ] make Marketing Library public
+> - [x] make Marketing Library public ✅ 2025-04-21
 > - [ ] create contribution guidelines for Marketing Library
+> - [ ] create notes for headings
+> - [ ] link headings to notes
 # contents
 
 # content strategy table of contents
